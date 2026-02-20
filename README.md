@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sonw or Snowy and I'm a cat lover, from Vietnam. </h2>
+<h2 align="left">Welcomes 👋! </h2>
 
 ###
 
